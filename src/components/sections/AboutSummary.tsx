@@ -37,8 +37,11 @@ export function AboutSummary() {
             <h3 className="text-3xl md:text-4xl font-display font-bold text-primary mb-6 leading-tight">
               Excellence in General Trading & Wholesale
             </h3>
-            <p className="text-gray-600 text-lg mb-8 leading-relaxed">
+            <p className="text-gray-600 text-lg mb-4 leading-relaxed">
               Nöör Al Amàni Goods Wholesaler L.L.C is a premier general trading and wholesale company based in Dubai. We specialize in the import, export, and distribution of fast-moving consumer goods (FMCG), leveraging our robust network to deliver quality to wholesale buyers regionally.
+            </p>
+            <p className="text-gray-600 text-lg mb-8 leading-relaxed">
+              <strong className="text-neutral-dark font-semibold">Specialties:</strong> Rice, Turmeric, Organic Spices & Masalas, Honey, Tiles, Cosmetics, and Perfumes.
             </p>
             
             <div className="space-y-6">
